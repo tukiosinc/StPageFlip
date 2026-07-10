@@ -19,6 +19,7 @@
   "devDependencies": {
     "@rollup/plugin-terser": "^1.0.0",
     "@rollup/plugin-typescript": "^12.0.0",
+    "postcss": "^8.4.0",
     "rollup": "^4.0.0",
     "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.6.0",
